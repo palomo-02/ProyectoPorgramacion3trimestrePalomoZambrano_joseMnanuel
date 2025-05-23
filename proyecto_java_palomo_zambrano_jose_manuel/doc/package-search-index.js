@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"proyecto_java_palomo_zambrano_jose_manuel","l":"app"},{"m":"proyecto_java_palomo_zambrano_jose_manuel","l":"dao"},{"m":"proyecto_java_palomo_zambrano_jose_manuel","l":"model"},{"m":"proyecto_java_palomo_zambrano_jose_manuel","l":"util"}];updateSearchResults();
